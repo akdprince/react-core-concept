@@ -15,6 +15,7 @@ function App() {
         </p>
         <p>My name is : {person.name +". My job is "+person.job}</p>
         <h1>This is ANIK kumar Das</h1>
+        <h2>Now to began react coding</h2>
       </header>
     </div>
   );
